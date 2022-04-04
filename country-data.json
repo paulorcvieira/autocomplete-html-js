@@ -1,0 +1,1724 @@
+[
+  {
+      "order": 1,
+      "name": "Afeganistão",
+      "acronym2": "AF",
+      "acronym3": "AFG",
+      "code": "004"
+  },
+  {
+      "order": 2,
+      "name": "África do Sul",
+      "acronym2": "ZA",
+      "acronym3": "ZAF",
+      "code": "710"
+  },
+  {
+      "order": 3,
+      "name": "Albânia",
+      "acronym2": "AL",
+      "acronym3": "ALB",
+      "code": "008"
+  },
+  {
+      "order": 4,
+      "name": "Alemanha",
+      "acronym2": "DE",
+      "acronym3": "DEU",
+      "code": "276"
+  },
+  {
+      "order": 5,
+      "name": "Andorra",
+      "acronym2": "AD",
+      "acronym3": "AND",
+      "code": "020"
+  },
+  {
+      "order": 6,
+      "name": "Angola",
+      "acronym2": "AO",
+      "acronym3": "AGO",
+      "code": "024"
+  },
+  {
+      "order": 7,
+      "name": "Anguilla",
+      "acronym2": "AI",
+      "acronym3": "AIA",
+      "code": "660"
+  },
+  {
+      "order": 8,
+      "name": "Antártida",
+      "acronym2": "AQ",
+      "acronym3": "ATA",
+      "code": "010"
+  },
+  {
+      "order": 9,
+      "name": "Antígua e Barbuda",
+      "acronym2": "AG",
+      "acronym3": "ATG",
+      "code": "028"
+  },
+  {
+      "order": 10,
+      "name": "Antilhas Holandesas",
+      "acronym2": "AN",
+      "acronym3": "ANT",
+      "code": "530"
+  },
+  {
+      "order": 11,
+      "name": "Arábia Saudita",
+      "acronym2": "SA",
+      "acronym3": "SAU",
+      "code": "682"
+  },
+  {
+      "order": 12,
+      "name": "Argélia",
+      "acronym2": "DZ",
+      "acronym3": "DZA",
+      "code": "012"
+  },
+  {
+      "order": 13,
+      "name": "Argentina",
+      "acronym2": "AR",
+      "acronym3": "ARG",
+      "code": "032"
+  },
+  {
+      "order": 14,
+      "name": "Armênia",
+      "acronym2": "AM",
+      "acronym3": "ARM",
+      "code": "51"
+  },
+  {
+      "order": 15,
+      "name": "Aruba",
+      "acronym2": "AW",
+      "acronym3": "ABW",
+      "code": "533"
+  },
+  {
+      "order": 16,
+      "name": "Austrália",
+      "acronym2": "AU",
+      "acronym3": "AUS",
+      "code": "036"
+  },
+  {
+      "order": 17,
+      "name": "Áustria",
+      "acronym2": "AT",
+      "acronym3": "AUT",
+      "code": "040"
+  },
+  {
+      "order": 18,
+      "name": "Azerbaijão",
+      "acronym2": "AZ  ",
+      "acronym3": "AZE",
+      "code": "31"
+  },
+  {
+      "order": 19,
+      "name": "Bahamas",
+      "acronym2": "BS",
+      "acronym3": "BHS",
+      "code": "044"
+  },
+  {
+      "order": 20,
+      "name": "Bahrein",
+      "acronym2": "BH",
+      "acronym3": "BHR",
+      "code": "048"
+  },
+  {
+      "order": 21,
+      "name": "Bangladesh",
+      "acronym2": "BD",
+      "acronym3": "BGD",
+      "code": "050"
+  },
+  {
+      "order": 22,
+      "name": "Barbados",
+      "acronym2": "BB",
+      "acronym3": "BRB",
+      "code": "052"
+  },
+  {
+      "order": 23,
+      "name": "Belarus",
+      "acronym2": "BY",
+      "acronym3": "BLR",
+      "code": "112"
+  },
+  {
+      "order": 24,
+      "name": "Bélgica",
+      "acronym2": "BE",
+      "acronym3": "BEL",
+      "code": "056"
+  },
+  {
+      "order": 25,
+      "name": "Belize",
+      "acronym2": "BZ",
+      "acronym3": "BLZ",
+      "code": "084"
+  },
+  {
+      "order": 26,
+      "name": "Benin",
+      "acronym2": "BJ",
+      "acronym3": "BEN",
+      "code": "204"
+  },
+  {
+      "order": 27,
+      "name": "Bermudas",
+      "acronym2": "BM",
+      "acronym3": "BMU",
+      "code": "060"
+  },
+  {
+      "order": 28,
+      "name": "Bolívia",
+      "acronym2": "BO",
+      "acronym3": "BOL",
+      "code": "068"
+  },
+  {
+      "order": 29,
+      "name": "Bósnia-Herzegóvina",
+      "acronym2": "BA",
+      "acronym3": "BIH",
+      "code": "070"
+  },
+  {
+      "order": 30,
+      "name": "Botsuana",
+      "acronym2": "BW",
+      "acronym3": "BWA",
+      "code": "072"
+  },
+  {
+      "order": 31,
+      "name": "Brasil",
+      "acronym2": "BR",
+      "acronym3": "BRA",
+      "code": "076"
+  },
+  {
+      "order": 32,
+      "name": "Brunei",
+      "acronym2": "BN",
+      "acronym3": "BRN",
+      "code": "096"
+  },
+  {
+      "order": 33,
+      "name": "Bulgária",
+      "acronym2": "BG",
+      "acronym3": "BGR",
+      "code": "100"
+  },
+  {
+      "order": 34,
+      "name": "Burkina Fasso",
+      "acronym2": "BF",
+      "acronym3": "BFA",
+      "code": "854"
+  },
+  {
+      "order": 35,
+      "name": "Burundi",
+      "acronym2": "BI",
+      "acronym3": "BDI",
+      "code": "108"
+  },
+  {
+      "order": 36,
+      "name": "Butão",
+      "acronym2": "BT",
+      "acronym3": "BTN",
+      "code": "064"
+  },
+  {
+      "order": 37,
+      "name": "Cabo Verde",
+      "acronym2": "CV",
+      "acronym3": "CPV",
+      "code": "132"
+  },
+  {
+      "order": 38,
+      "name": "Camarões",
+      "acronym2": "CM",
+      "acronym3": "CMR",
+      "code": "120"
+  },
+  {
+      "order": 39,
+      "name": "Camboja",
+      "acronym2": "KH",
+      "acronym3": "KHM",
+      "code": "116"
+  },
+  {
+      "order": 40,
+      "name": "Canadá",
+      "acronym2": "CA",
+      "acronym3": "CAN",
+      "code": "124"
+  },
+  {
+      "order": 41,
+      "name": "Cazaquistão",
+      "acronym2": "KZ",
+      "acronym3": "KAZ",
+      "code": "398"
+  },
+  {
+      "order": 42,
+      "name": "Chade",
+      "acronym2": "TD",
+      "acronym3": "TCD",
+      "code": "148"
+  },
+  {
+      "order": 43,
+      "name": "Chile",
+      "acronym2": "CL",
+      "acronym3": "CHL",
+      "code": "152"
+  },
+  {
+      "order": 44,
+      "name": "China",
+      "acronym2": "CN",
+      "acronym3": "CHN",
+      "code": "156"
+  },
+  {
+      "order": 45,
+      "name": "Chipre",
+      "acronym2": "CY",
+      "acronym3": "CYP",
+      "code": "196"
+  },
+  {
+      "order": 46,
+      "name": "Cingapura",
+      "acronym2": "SG",
+      "acronym3": "SGP",
+      "code": "702"
+  },
+  {
+      "order": 47,
+      "name": "Colômbia",
+      "acronym2": "CO",
+      "acronym3": "COL",
+      "code": "170"
+  },
+  {
+      "order": 48,
+      "name": "Congo",
+      "acronym2": "CG",
+      "acronym3": "COG",
+      "code": "178"
+  },
+  {
+      "order": 49,
+      "name": "Coréia do Norte",
+      "acronym2": "KP",
+      "acronym3": "PRK",
+      "code": "408"
+  },
+  {
+      "order": 50,
+      "name": "Coréia do Sul",
+      "acronym2": "KR",
+      "acronym3": "KOR",
+      "code": "410"
+  },
+  {
+      "order": 51,
+      "name": "Costa do Marfim",
+      "acronym2": "CI",
+      "acronym3": "CIV",
+      "code": "384"
+  },
+  {
+      "order": 52,
+      "name": "Costa Rica",
+      "acronym2": "CR",
+      "acronym3": "CRI",
+      "code": "188"
+  },
+  {
+      "order": 53,
+      "name": "Croácia (Hrvatska)",
+      "acronym2": "HR",
+      "acronym3": "HRV",
+      "code": "191"
+  },
+  {
+      "order": 54,
+      "name": "Cuba",
+      "acronym2": "CU",
+      "acronym3": "CUB",
+      "code": "192"
+  },
+  {
+      "order": 55,
+      "name": "Dinamarca",
+      "acronym2": "DK",
+      "acronym3": "DNK",
+      "code": "208"
+  },
+  {
+      "order": 56,
+      "name": "Djibuti",
+      "acronym2": "DJ",
+      "acronym3": "DJI",
+      "code": "262"
+  },
+  {
+      "order": 57,
+      "name": "Dominica",
+      "acronym2": "DM",
+      "acronym3": "DMA",
+      "code": "212"
+  },
+  {
+      "order": 58,
+      "name": "Egito",
+      "acronym2": "EG",
+      "acronym3": "EGY",
+      "code": "818"
+  },
+  {
+      "order": 59,
+      "name": "El Salvador",
+      "acronym2": "SV",
+      "acronym3": "SLV",
+      "code": "222"
+  },
+  {
+      "order": 60,
+      "name": "Emirados Árabes Unidos",
+      "acronym2": "AE",
+      "acronym3": "ARE",
+      "code": "784"
+  },
+  {
+      "order": 61,
+      "name": "Equador",
+      "acronym2": "EC",
+      "acronym3": "ECU",
+      "code": "218"
+  },
+  {
+      "order": 62,
+      "name": "Eritréia",
+      "acronym2": "ER",
+      "acronym3": "ERI",
+      "code": "232"
+  },
+  {
+      "order": 63,
+      "name": "Eslováquia",
+      "acronym2": "SK",
+      "acronym3": "SVK",
+      "code": "703"
+  },
+  {
+      "order": 64,
+      "name": "Eslovênia",
+      "acronym2": "SI",
+      "acronym3": "SVN",
+      "code": "705"
+  },
+  {
+      "order": 65,
+      "name": "Espanha",
+      "acronym2": "ES",
+      "acronym3": "ESP",
+      "code": "724"
+  },
+  {
+      "order": 66,
+      "name": "Estados Unidos",
+      "acronym2": "US",
+      "acronym3": "USA",
+      "code": "840"
+  },
+  {
+      "order": 67,
+      "name": "Estônia",
+      "acronym2": "EE",
+      "acronym3": "EST",
+      "code": "233"
+  },
+  {
+      "order": 68,
+      "name": "Etiópia",
+      "acronym2": "ET",
+      "acronym3": "ETH",
+      "code": "231"
+  },
+  {
+      "order": 69,
+      "name": "Fiji",
+      "acronym2": "FJ",
+      "acronym3": "FJI",
+      "code": "242"
+  },
+  {
+      "order": 70,
+      "name": "Filipinas",
+      "acronym2": "PH",
+      "acronym3": "PHL",
+      "code": "608"
+  },
+  {
+      "order": 71,
+      "name": "Finlândia",
+      "acronym2": "FI",
+      "acronym3": "FIN",
+      "code": "246"
+  },
+  {
+      "order": 72,
+      "name": "França",
+      "acronym2": "FR",
+      "acronym3": "FRA",
+      "code": "250"
+  },
+  {
+      "order": 73,
+      "name": "Gabão",
+      "acronym2": "GA",
+      "acronym3": "GAB",
+      "code": "266"
+  },
+  {
+      "order": 74,
+      "name": "Gâmbia",
+      "acronym2": "GM",
+      "acronym3": "GMB",
+      "code": "270"
+  },
+  {
+      "order": 75,
+      "name": "Gana",
+      "acronym2": "GH",
+      "acronym3": "GHA",
+      "code": "288"
+  },
+  {
+      "order": 76,
+      "name": "Geórgia",
+      "acronym2": "GE",
+      "acronym3": "GEO",
+      "code": "268"
+  },
+  {
+      "order": 77,
+      "name": "Gibraltar",
+      "acronym2": "GI",
+      "acronym3": "GIB",
+      "code": "292"
+  },
+  {
+      "order": 78,
+      "name": "Grã-Bretanha (Reino Unido, UK)",
+      "acronym2": "GB",
+      "acronym3": "GBR",
+      "code": "826"
+  },
+  {
+      "order": 79,
+      "name": "Granada",
+      "acronym2": "GD",
+      "acronym3": "GRD",
+      "code": "308"
+  },
+  {
+      "order": 80,
+      "name": "Grécia",
+      "acronym2": "GR",
+      "acronym3": "GRC",
+      "code": "300"
+  },
+  {
+      "order": 81,
+      "name": "Groelândia",
+      "acronym2": "GL",
+      "acronym3": "GRL",
+      "code": "304"
+  },
+  {
+      "order": 82,
+      "name": "Guadalupe",
+      "acronym2": "GP",
+      "acronym3": "GLP",
+      "code": "312"
+  },
+  {
+      "order": 83,
+      "name": "Guam (Território dos Estados Unidos)",
+      "acronym2": "GU",
+      "acronym3": "GUM",
+      "code": "316"
+  },
+  {
+      "order": 84,
+      "name": "Guatemala",
+      "acronym2": "GT",
+      "acronym3": "GTM",
+      "code": "320"
+  },
+  {
+      "order": 85,
+      "name": "Guernsey",
+      "acronym2": "G",
+      "acronym3": "GGY",
+      "code": "832"
+  },
+  {
+      "order": 86,
+      "name": "Guiana",
+      "acronym2": "GY",
+      "acronym3": "GUY",
+      "code": "328"
+  },
+  {
+      "order": 87,
+      "name": "Guiana Francesa",
+      "acronym2": "GF",
+      "acronym3": "GUF",
+      "code": "254"
+  },
+  {
+      "order": 88,
+      "name": "Guiné",
+      "acronym2": "GN",
+      "acronym3": "GIN",
+      "code": "324"
+  },
+  {
+      "order": 89,
+      "name": "Guiné Equatorial",
+      "acronym2": "GQ",
+      "acronym3": "GNQ",
+      "code": "226"
+  },
+  {
+      "order": 90,
+      "name": "Guiné-Bissau",
+      "acronym2": "GW",
+      "acronym3": "GNB",
+      "code": "624"
+  },
+  {
+      "order": 91,
+      "name": "Haiti",
+      "acronym2": "HT",
+      "acronym3": "HTI",
+      "code": "332"
+  },
+  {
+      "order": 92,
+      "name": "Holanda",
+      "acronym2": "NL",
+      "acronym3": "NLD",
+      "code": "528"
+  },
+  {
+      "order": 93,
+      "name": "Honduras",
+      "acronym2": "HN",
+      "acronym3": "HND",
+      "code": "340"
+  },
+  {
+      "order": 94,
+      "name": "Hong Kong",
+      "acronym2": "HK",
+      "acronym3": "HKG",
+      "code": "344"
+  },
+  {
+      "order": 95,
+      "name": "Hungria",
+      "acronym2": "HU",
+      "acronym3": "HUN",
+      "code": "348"
+  },
+  {
+      "order": 96,
+      "name": "Iêmen",
+      "acronym2": "YE",
+      "acronym3": "YEM",
+      "code": "887"
+  },
+  {
+      "order": 97,
+      "name": "Ilha Bouvet (Território da Noruega)",
+      "acronym2": "BV",
+      "acronym3": "BVT",
+      "code": "074"
+  },
+  {
+      "order": 98,
+      "name": "Ilha do Homem",
+      "acronym2": "IM",
+      "acronym3": "IMN",
+      "code": "833"
+  },
+  {
+      "order": 99,
+      "name": "Ilha Natal",
+      "acronym2": "CX",
+      "acronym3": "CXR",
+      "code": "162"
+  },
+  {
+      "order": 100,
+      "name": "Ilha Pitcairn",
+      "acronym2": "PN",
+      "acronym3": "PCN",
+      "code": "612"
+  },
+  {
+      "order": 101,
+      "name": "Ilha Reunião",
+      "acronym2": "RE",
+      "acronym3": "REU",
+      "code": "638"
+  },
+  {
+      "order": 102,
+      "name": "Ilhas Aland",
+      "acronym2": "AX",
+      "acronym3": "ALA",
+      "code": "248"
+  },
+  {
+      "order": 103,
+      "name": "Ilhas Cayman",
+      "acronym2": "KY",
+      "acronym3": "CYM",
+      "code": "136"
+  },
+  {
+      "order": 104,
+      "name": "Ilhas Cocos",
+      "acronym2": "CC",
+      "acronym3": "CCK",
+      "code": "166"
+  },
+  {
+      "order": 105,
+      "name": "Ilhas Comores",
+      "acronym2": "KM",
+      "acronym3": "COM",
+      "code": "174"
+  },
+  {
+      "order": 106,
+      "name": "Ilhas Cook",
+      "acronym2": "CK",
+      "acronym3": "COK",
+      "code": "184"
+  },
+  {
+      "order": 107,
+      "name": "Ilhas Faroes",
+      "acronym2": "FO",
+      "acronym3": "FRO",
+      "code": "234"
+  },
+  {
+      "order": 108,
+      "name": "Ilhas Falkland (Malvinas)",
+      "acronym2": "FK",
+      "acronym3": "FLK",
+      "code": "238"
+  },
+  {
+      "order": 109,
+      "name": "Ilhas Geórgia do Sul e Sandwich do Sul",
+      "acronym2": "GS",
+      "acronym3": "SGS",
+      "code": "239"
+  },
+  {
+      "order": 110,
+      "name": "Ilhas Heard e McDonald (Território da Austrália)",
+      "acronym2": "HM",
+      "acronym3": "HMD",
+      "code": "334"
+  },
+  {
+      "order": 111,
+      "name": "Ilhas Marianas do Norte",
+      "acronym2": "MP",
+      "acronym3": "MNP",
+      "code": "580"
+  },
+  {
+      "order": 112,
+      "name": "Ilhas Marshall",
+      "acronym2": "MH",
+      "acronym3": "MHL",
+      "code": "584"
+  },
+  {
+      "order": 113,
+      "name": "Ilhas Menores dos Estados Unidos",
+      "acronym2": "UM",
+      "acronym3": "UMI",
+      "code": "581"
+  },
+  {
+      "order": 114,
+      "name": "Ilhas Norfolk",
+      "acronym2": "NF",
+      "acronym3": "NFK",
+      "code": "574"
+  },
+  {
+      "order": 115,
+      "name": "Ilhas Seychelles",
+      "acronym2": "SC",
+      "acronym3": "SYC",
+      "code": "690"
+  },
+  {
+      "order": 116,
+      "name": "Ilhas Solomão",
+      "acronym2": "SB",
+      "acronym3": "SLB",
+      "code": "090"
+  },
+  {
+      "order": 117,
+      "name": "Ilhas Svalbard e Jan Mayen",
+      "acronym2": "SJ",
+      "acronym3": "SJM",
+      "code": "744"
+  },
+  {
+      "order": 118,
+      "name": "Ilhas Tokelau",
+      "acronym2": "TK",
+      "acronym3": "TKL",
+      "code": "772"
+  },
+  {
+      "order": 119,
+      "name": "Ilhas Turks e Caicos",
+      "acronym2": "TC",
+      "acronym3": "TCA",
+      "code": "796"
+  },
+  {
+      "order": 120,
+      "name": "Ilhas Virgens (Estados Unidos)",
+      "acronym2": "VI",
+      "acronym3": "VIR",
+      "code": "850"
+  },
+  {
+      "order": 121,
+      "name": "Ilhas Virgens (Inglaterra)",
+      "acronym2": "VG",
+      "acronym3": "VGB",
+      "code": "092"
+  },
+  {
+      "order": 122,
+      "name": "Ilhas Wallis e Futuna",
+      "acronym2": "WF",
+      "acronym3": "WLF",
+      "code": "876"
+  },
+  {
+      "order": 123,
+      "name": "índia",
+      "acronym2": "IN",
+      "acronym3": "IND",
+      "code": "356"
+  },
+  {
+      "order": 124,
+      "name": "Indonésia",
+      "acronym2": "ID",
+      "acronym3": "IDN",
+      "code": "360"
+  },
+  {
+      "order": 125,
+      "name": "Irã",
+      "acronym2": "IR",
+      "acronym3": "IRN",
+      "code": "364"
+  },
+  {
+      "order": 126,
+      "name": "Iraque",
+      "acronym2": "IQ",
+      "acronym3": "IRQ",
+      "code": "368"
+  },
+  {
+      "order": 127,
+      "name": "Irlanda",
+      "acronym2": "IE",
+      "acronym3": "IRL",
+      "code": "372"
+  },
+  {
+      "order": 128,
+      "name": "Islândia",
+      "acronym2": "IS",
+      "acronym3": "ISL",
+      "code": "352"
+  },
+  {
+      "order": 129,
+      "name": "Israel",
+      "acronym2": "IL",
+      "acronym3": "ISR",
+      "code": "376"
+  },
+  {
+      "order": 130,
+      "name": "Itália",
+      "acronym2": "IT",
+      "acronym3": "ITA",
+      "code": "380"
+  },
+  {
+      "order": 131,
+      "name": "Jamaica",
+      "acronym2": "JM",
+      "acronym3": "JAM",
+      "code": "388"
+  },
+  {
+      "order": 132,
+      "name": "Japão",
+      "acronym2": "JP",
+      "acronym3": "JPN",
+      "code": "392"
+  },
+  {
+      "order": 133,
+      "name": "Jersey",
+      "acronym2": "JE",
+      "acronym3": "JEY",
+      "code": "832"
+  },
+  {
+      "order": 134,
+      "name": "Jordânia",
+      "acronym2": "JO",
+      "acronym3": "JOR",
+      "code": "400"
+  },
+  {
+      "order": 135,
+      "name": "Kênia",
+      "acronym2": "KE",
+      "acronym3": "KEN",
+      "code": "404"
+  },
+  {
+      "order": 136,
+      "name": "Kiribati",
+      "acronym2": "KI",
+      "acronym3": "KIR",
+      "code": "296"
+  },
+  {
+      "order": 137,
+      "name": "Kuait",
+      "acronym2": "KW",
+      "acronym3": "KWT",
+      "code": "414"
+  },
+  {
+      "order": 138,
+      "name": "Laos",
+      "acronym2": "LA",
+      "acronym3": "LAO",
+      "code": "418"
+  },
+  {
+      "order": 139,
+      "name": "Látvia",
+      "acronym2": "LV",
+      "acronym3": "LVA",
+      "code": "428"
+  },
+  {
+      "order": 140,
+      "name": "Lesoto",
+      "acronym2": "LS",
+      "acronym3": "LSO",
+      "code": "426"
+  },
+  {
+      "order": 141,
+      "name": "Líbano",
+      "acronym2": "LB",
+      "acronym3": "LBN",
+      "code": "422"
+  },
+  {
+      "order": 142,
+      "name": "Libéria",
+      "acronym2": "LR",
+      "acronym3": "LBR",
+      "code": "430"
+  },
+  {
+      "order": 143,
+      "name": "Líbia",
+      "acronym2": "LY",
+      "acronym3": "LBY",
+      "code": "434"
+  },
+  {
+      "order": 144,
+      "name": "Liechtenstein",
+      "acronym2": "LI",
+      "acronym3": "LIE",
+      "code": "438"
+  },
+  {
+      "order": 145,
+      "name": "Lituânia",
+      "acronym2": "LT",
+      "acronym3": "LTU",
+      "code": "440"
+  },
+  {
+      "order": 146,
+      "name": "Luxemburgo",
+      "acronym2": "LU",
+      "acronym3": "LUX",
+      "code": "442"
+  },
+  {
+      "order": 147,
+      "name": "Macau",
+      "acronym2": "MO",
+      "acronym3": "MAC",
+      "code": "446"
+  },
+  {
+      "order": 148,
+      "name": "Macedônia (República Yugoslava)",
+      "acronym2": "MK",
+      "acronym3": "MKD",
+      "code": "807"
+  },
+  {
+      "order": 149,
+      "name": "Madagascar",
+      "acronym2": "MG",
+      "acronym3": "MDG",
+      "code": "450"
+  },
+  {
+      "order": 150,
+      "name": "Malásia",
+      "acronym2": "MY",
+      "acronym3": "MYS",
+      "code": "458"
+  },
+  {
+      "order": 151,
+      "name": "Malaui",
+      "acronym2": "MW",
+      "acronym3": "MWI",
+      "code": "454"
+  },
+  {
+      "order": 152,
+      "name": "Maldivas",
+      "acronym2": "MV",
+      "acronym3": "MDV",
+      "code": "462"
+  },
+  {
+      "order": 153,
+      "name": "Mali",
+      "acronym2": "ML",
+      "acronym3": "MLI",
+      "code": "466"
+  },
+  {
+      "order": 154,
+      "name": "Malta",
+      "acronym2": "MT",
+      "acronym3": "MLT",
+      "code": "470"
+  },
+  {
+      "order": 155,
+      "name": "Marrocos",
+      "acronym2": "MA",
+      "acronym3": "MAR",
+      "code": "504"
+  },
+  {
+      "order": 156,
+      "name": "Martinica",
+      "acronym2": "MQ",
+      "acronym3": "MTQ",
+      "code": "474"
+  },
+  {
+      "order": 157,
+      "name": "Maurício",
+      "acronym2": "MU",
+      "acronym3": "MUS",
+      "code": "480"
+  },
+  {
+      "order": 158,
+      "name": "Mauritânia",
+      "acronym2": "MR",
+      "acronym3": "MRT",
+      "code": "478"
+  },
+  {
+      "order": 159,
+      "name": "Mayotte",
+      "acronym2": "YT",
+      "acronym3": "MYT",
+      "code": "175"
+  },
+  {
+      "order": 160,
+      "name": "México",
+      "acronym2": "MX",
+      "acronym3": "MEX",
+      "code": "484"
+  },
+  {
+      "order": 161,
+      "name": "Micronésia",
+      "acronym2": "FM",
+      "acronym3": "FSM",
+      "code": "583"
+  },
+  {
+      "order": 162,
+      "name": "Moçambique",
+      "acronym2": "MZ",
+      "acronym3": "MOZ",
+      "code": "508"
+  },
+  {
+      "order": 163,
+      "name": "Moldova",
+      "acronym2": "MD",
+      "acronym3": "MDA",
+      "code": "498"
+  },
+  {
+      "order": 164,
+      "name": "Mônaco",
+      "acronym2": "MC",
+      "acronym3": "MCO",
+      "code": "492"
+  },
+  {
+      "order": 165,
+      "name": "Mongólia",
+      "acronym2": "MN",
+      "acronym3": "MNG",
+      "code": "496"
+  },
+  {
+      "order": 166,
+      "name": "Montenegro",
+      "acronym2": "ME",
+      "acronym3": "MNE",
+      "code": "499"
+  },
+  {
+      "order": 167,
+      "name": "Montserrat",
+      "acronym2": "MS",
+      "acronym3": "MSR",
+      "code": "500"
+  },
+  {
+      "order": 168,
+      "name": "Myanma",
+      "acronym2": "MM",
+      "acronym3": "MMR",
+      "code": "104"
+  },
+  {
+      "order": 169,
+      "name": "Namíbia",
+      "acronym2": "NA",
+      "acronym3": "NAM",
+      "code": "516"
+  },
+  {
+      "order": 170,
+      "name": "Nauru",
+      "acronym2": "NR",
+      "acronym3": "NRU",
+      "code": "520"
+  },
+  {
+      "order": 171,
+      "name": "Nepal",
+      "acronym2": "NP",
+      "acronym3": "NPL",
+      "code": "524"
+  },
+  {
+      "order": 172,
+      "name": "Nicarágua",
+      "acronym2": "NI",
+      "acronym3": "NIC",
+      "code": "558"
+  },
+  {
+      "order": 173,
+      "name": "Níger",
+      "acronym2": "NE",
+      "acronym3": "NER",
+      "code": "562"
+  },
+  {
+      "order": 174,
+      "name": "Nigéria",
+      "acronym2": "NG",
+      "acronym3": "NGA",
+      "code": "566"
+  },
+  {
+      "order": 175,
+      "name": "Niue",
+      "acronym2": "NU",
+      "acronym3": "NIU",
+      "code": "570"
+  },
+  {
+      "order": 176,
+      "name": "Noruega",
+      "acronym2": "NO",
+      "acronym3": "NOR",
+      "code": "578"
+  },
+  {
+      "order": 177,
+      "name": "Nova Caledônia",
+      "acronym2": "NC",
+      "acronym3": "NCL",
+      "code": "540"
+  },
+  {
+      "order": 178,
+      "name": "Nova Zelândia",
+      "acronym2": "NZ",
+      "acronym3": "NZL",
+      "code": "554"
+  },
+  {
+      "order": 179,
+      "name": "Omã",
+      "acronym2": "OM",
+      "acronym3": "OMN",
+      "code": "512"
+  },
+  {
+      "order": 180,
+      "name": "Palau",
+      "acronym2": "PW",
+      "acronym3": "PLW",
+      "code": "585"
+  },
+  {
+      "order": 181,
+      "name": "Panamá",
+      "acronym2": "PA",
+      "acronym3": "PAN",
+      "code": "591"
+  },
+  {
+      "order": 182,
+      "name": "Papua-Nova Guiné",
+      "acronym2": "PG",
+      "acronym3": "PNG",
+      "code": "598"
+  },
+  {
+      "order": 183,
+      "name": "Paquistão",
+      "acronym2": "PK",
+      "acronym3": "PAK",
+      "code": "586"
+  },
+  {
+      "order": 184,
+      "name": "Paraguai",
+      "acronym2": "PY",
+      "acronym3": "PRY",
+      "code": "600"
+  },
+  {
+      "order": 185,
+      "name": "Peru",
+      "acronym2": "PE",
+      "acronym3": "PER",
+      "code": "604"
+  },
+  {
+      "order": 186,
+      "name": "Polinésia Francesa",
+      "acronym2": "PF",
+      "acronym3": "PYF",
+      "code": "258"
+  },
+  {
+      "order": 187,
+      "name": "Polônia",
+      "acronym2": "PL",
+      "acronym3": "POL",
+      "code": "616"
+  },
+  {
+      "order": 188,
+      "name": "Porto Rico",
+      "acronym2": "PR",
+      "acronym3": "PRI",
+      "code": "630"
+  },
+  {
+      "order": 189,
+      "name": "Portugal",
+      "acronym2": "PT",
+      "acronym3": "PRT",
+      "code": "620"
+  },
+  {
+      "order": 190,
+      "name": "Qatar",
+      "acronym2": "QA",
+      "acronym3": "QAT",
+      "code": "634"
+  },
+  {
+      "order": 191,
+      "name": "Quirguistão",
+      "acronym2": "KG",
+      "acronym3": "KGZ",
+      "code": "417"
+  },
+  {
+      "order": 192,
+      "name": "República Centro-Africana",
+      "acronym2": "CF",
+      "acronym3": "CAF",
+      "code": "140"
+  },
+  {
+      "order": 193,
+      "name": "República Democrática do Congo",
+      "acronym2": "CD",
+      "acronym3": "COD",
+      "code": "180"
+  },
+  {
+      "order": 194,
+      "name": "República Dominicana",
+      "acronym2": "DO",
+      "acronym3": "DOM",
+      "code": "214"
+  },
+  {
+      "order": 195,
+      "name": "República Tcheca",
+      "acronym2": "CZ",
+      "acronym3": "CZE",
+      "code": "203"
+  },
+  {
+      "order": 196,
+      "name": "Romênia",
+      "acronym2": "RO",
+      "acronym3": "ROM",
+      "code": "642"
+  },
+  {
+      "order": 197,
+      "name": "Ruanda",
+      "acronym2": "RW",
+      "acronym3": "RWA",
+      "code": "646"
+  },
+  {
+      "order": 198,
+      "name": "Rússia (antiga URSS) - Federação Russa",
+      "acronym2": "RU",
+      "acronym3": "RUS",
+      "code": "643"
+  },
+  {
+      "order": 199,
+      "name": "Saara Ocidental",
+      "acronym2": "EH",
+      "acronym3": "ESH",
+      "code": "732"
+  },
+  {
+      "order": 200,
+      "name": "Saint Vincente e Granadinas",
+      "acronym2": "VC",
+      "acronym3": "VCT",
+      "code": "670"
+  },
+  {
+      "order": 201,
+      "name": "Samoa Americana",
+      "acronym2": "AS",
+      "acronym3": "ASM",
+      "code": "016"
+  },
+  {
+      "order": 202,
+      "name": "Samoa Ocidental",
+      "acronym2": "WS",
+      "acronym3": "WSM",
+      "code": "882"
+  },
+  {
+      "order": 203,
+      "name": "San Marino",
+      "acronym2": "SM",
+      "acronym3": "SMR",
+      "code": "674"
+  },
+  {
+      "order": 204,
+      "name": "Santa Helena",
+      "acronym2": "SH",
+      "acronym3": "SHN",
+      "code": "654"
+  },
+  {
+      "order": 205,
+      "name": "Santa Lúcia",
+      "acronym2": "LC",
+      "acronym3": "LCA",
+      "code": "662"
+  },
+  {
+      "order": 206,
+      "name": "São Bartolomeu",
+      "acronym2": "BL",
+      "acronym3": "BLM",
+      "code": "652"
+  },
+  {
+      "order": 207,
+      "name": "São Cristóvão e Névis",
+      "acronym2": "KN",
+      "acronym3": "KNA",
+      "code": "659"
+  },
+  {
+      "order": 208,
+      "name": "São Martim",
+      "acronym2": "MF",
+      "acronym3": "MAF",
+      "code": "663"
+  },
+  {
+      "order": 209,
+      "name": "São Tomé e Príncipe",
+      "acronym2": "ST",
+      "acronym3": "STP",
+      "code": "678"
+  },
+  {
+      "order": 210,
+      "name": "Senegal",
+      "acronym2": "SN",
+      "acronym3": "SEN",
+      "code": "686"
+  },
+  {
+      "order": 211,
+      "name": "Serra Leoa",
+      "acronym2": "SL",
+      "acronym3": "SLE",
+      "code": "694"
+  },
+  {
+      "order": 212,
+      "name": "Sérvia",
+      "acronym2": "RS",
+      "acronym3": "SRB",
+      "code": "688"
+  },
+  {
+      "order": 213,
+      "name": "Síria",
+      "acronym2": "SY",
+      "acronym3": "SYR",
+      "code": "760"
+  },
+  {
+      "order": 214,
+      "name": "Somália",
+      "acronym2": "SO",
+      "acronym3": "SOM",
+      "code": "706"
+  },
+  {
+      "order": 215,
+      "name": "Sri Lanka",
+      "acronym2": "LK",
+      "acronym3": "LKA",
+      "code": "144"
+  },
+  {
+      "order": 216,
+      "name": "St. Pierre and Miquelon",
+      "acronym2": "PM",
+      "acronym3": "SPM",
+      "code": "666"
+  },
+  {
+      "order": 217,
+      "name": "Suazilândia",
+      "acronym2": "SZ",
+      "acronym3": "SWZ",
+      "code": "748"
+  },
+  {
+      "order": 218,
+      "name": "Sudão",
+      "acronym2": "SD",
+      "acronym3": "SDN",
+      "code": "736"
+  },
+  {
+      "order": 219,
+      "name": "Suécia",
+      "acronym2": "SE",
+      "acronym3": "SWE",
+      "code": "752"
+  },
+  {
+      "order": 220,
+      "name": "Suíça",
+      "acronym2": "CH",
+      "acronym3": "CHE",
+      "code": "756"
+  },
+  {
+      "order": 221,
+      "name": "Suriname",
+      "acronym2": "SR",
+      "acronym3": "SUR",
+      "code": "740"
+  },
+  {
+      "order": 222,
+      "name": "Tadjiquistão",
+      "acronym2": "TJ",
+      "acronym3": "TJK",
+      "code": "762"
+  },
+  {
+      "order": 223,
+      "name": "Tailândia",
+      "acronym2": "TH",
+      "acronym3": "THA",
+      "code": "764"
+  },
+  {
+      "order": 224,
+      "name": "Taiwan",
+      "acronym2": "TW",
+      "acronym3": "TWN",
+      "code": "158"
+  },
+  {
+      "order": 225,
+      "name": "Tanzânia",
+      "acronym2": "TZ",
+      "acronym3": "TZA",
+      "code": "834"
+  },
+  {
+      "order": 226,
+      "name": "Território Britânico do Oceano índico",
+      "acronym2": "IO",
+      "acronym3": "IOT",
+      "code": "086"
+  },
+  {
+      "order": 227,
+      "name": "Territórios do Sul da França",
+      "acronym2": "TF",
+      "acronym3": "ATF",
+      "code": "260"
+  },
+  {
+      "order": 228,
+      "name": "Territórios Palestinos Ocupados",
+      "acronym2": "PS",
+      "acronym3": "PSE",
+      "code": "275"
+  },
+  {
+      "order": 229,
+      "name": "Timor Leste",
+      "acronym2": "TP",
+      "acronym3": "TMP",
+      "code": "626"
+  },
+  {
+      "order": 230,
+      "name": "Togo",
+      "acronym2": "TG",
+      "acronym3": "TGO",
+      "code": "768"
+  },
+  {
+      "order": 231,
+      "name": "Tonga",
+      "acronym2": "TO",
+      "acronym3": "TON",
+      "code": "776"
+  },
+  {
+      "order": 232,
+      "name": "Trinidad and Tobago",
+      "acronym2": "TT",
+      "acronym3": "TTO",
+      "code": "780"
+  },
+  {
+      "order": 233,
+      "name": "Tunísia",
+      "acronym2": "TN",
+      "acronym3": "TUN",
+      "code": "788"
+  },
+  {
+      "order": 234,
+      "name": "Turcomenistão",
+      "acronym2": "TM",
+      "acronym3": "TKM",
+      "code": "795"
+  },
+  {
+      "order": 235,
+      "name": "Turquia",
+      "acronym2": "TR",
+      "acronym3": "TUR",
+      "code": "792"
+  },
+  {
+      "order": 236,
+      "name": "Tuvalu",
+      "acronym2": "TV",
+      "acronym3": "TUV",
+      "code": "798"
+  },
+  {
+      "order": 237,
+      "name": "Ucrânia",
+      "acronym2": "UA",
+      "acronym3": "UKR",
+      "code": "804"
+  },
+  {
+      "order": 238,
+      "name": "Uganda",
+      "acronym2": "UG",
+      "acronym3": "UGA",
+      "code": "800"
+  },
+  {
+      "order": 239,
+      "name": "Uruguai",
+      "acronym2": "UY",
+      "acronym3": "URY",
+      "code": "858"
+  },
+  {
+      "order": 240,
+      "name": "Uzbequistão",
+      "acronym2": "UZ",
+      "acronym3": "UZB",
+      "code": "860"
+  },
+  {
+      "order": 241,
+      "name": "Vanuatu",
+      "acronym2": "VU",
+      "acronym3": "VUT",
+      "code": "548"
+  },
+  {
+      "order": 242,
+      "name": "Vaticano",
+      "acronym2": "VA",
+      "acronym3": "VAT",
+      "code": "336"
+  },
+  {
+      "order": 243,
+      "name": "Venezuela",
+      "acronym2": "VE",
+      "acronym3": "VEN",
+      "code": "862"
+  },
+  {
+      "order": 244,
+      "name": "Vietnã",
+      "acronym2": "VN",
+      "acronym3": "VNM",
+      "code": "704"
+  },
+  {
+      "order": 245,
+      "name": "Zâmbia",
+      "acronym2": "ZM",
+      "acronym3": "ZMB",
+      "code": "894"
+  },
+  {
+      "order": 246,
+      "name": "Zimbábue",
+      "acronym2": "ZW",
+      "acronym3": "ZWE",
+      "code": "716"
+  }
+]
